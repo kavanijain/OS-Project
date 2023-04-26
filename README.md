@@ -15,11 +15,12 @@ This is an operating system assignment conducted in my university which serves t
 
 ## Development Guide
 
-Project is supported at [http://localhost:3000](http://localhost:3000).
+Project is supported at port 3000.
+Online deployed at [http://localhost:3000](http://localhost:3000).
 
 ## Developed by
-Avani Jain   
-Ayush Anand
-Aryan Ashok Rajani
-Atul Raj
+1. Avani Jain   
+2. Ayush Anand
+3. Aryan Ashok Rajani
+4. Atul Raj
 
